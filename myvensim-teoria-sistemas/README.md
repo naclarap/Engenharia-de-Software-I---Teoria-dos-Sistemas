@@ -54,4 +54,4 @@ test/flows/      # implementações de exemplo (Exponential, Logistic)
 
 ## Metodologia
 
-Projeto construído em sprints, com testes unitários e funcionais escritos a cada incremento e documentação Doxygen mantida ao longo do desenvolvimento.
+Projeto construído em sprints, com testes unitários e funcionais escritos a cada incremento e documentação Doxygen mantida e atualizada ao longo do desenvolvimento.
