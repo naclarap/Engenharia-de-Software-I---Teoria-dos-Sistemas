@@ -1,0 +1,13 @@
+# Build artifacts
+bin/
+*.o
+*.exe
+*.out
+
+# Docs gerados (Doxygen)
+doc/html/
+doc/latex/
+
+# OS / editor
+.DS_Store
+.vscode/
